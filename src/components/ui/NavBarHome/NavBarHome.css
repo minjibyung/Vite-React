@@ -1,0 +1,9 @@
+ul{
+  display: inline-block;
+}
+li{
+  text-decoration: none;
+}
+nav a{
+  color: #000;
+}
